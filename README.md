@@ -7,8 +7,8 @@ Repository for me to learn Computer Vision basics using MNIST Dataset
       - Try to get closer to a 1.0 accuracy
 
 # Fashion Dataset:
-  Current Accuracy: 0.9106
-  Current Loss: 0.2882
+  - Current Accuracy: 0.9106
+  - Current Loss: 0.2882
   
   # Techniques Tested & Applied:
       - Data Augmentation
